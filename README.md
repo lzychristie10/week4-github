@@ -23,5 +23,14 @@ git clone https://github.com/lzychristie10/week4-github.git
 - Confusion matrix visualization will be displayed in the notebook output.
 - Analysis of sea ice and lead echoes.
 
+## Classification Results
+Here is the confusion matrix for our classification model:
+
+![Confusion Matrix](results/confusion_matrix.png)
+
+Below is the classification result:
+
+![Classification Result](results/classification_result.png)
+
 ---
 Created for **Week 4 Assignment**.
