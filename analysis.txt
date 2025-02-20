@@ -1,0 +1,5 @@
+This document contains analysis of the classification results.
+
+- The KMeans clustering classified echoes into two groups: sea ice and leads.
+- The confusion matrix shows the model's performance compared to ESA labels.
+- Standard deviation and mean values were calculated for both classes.
